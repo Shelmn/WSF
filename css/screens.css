@@ -1,0 +1,11 @@
+@media screen and (max-width: 990px) {
+    .sliderControl {
+        right: 150px;
+    }
+    .text {
+        left: 195px;
+    }
+    .redLines {
+        left: 140px;
+    }
+}
